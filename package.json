@@ -1,0 +1,22 @@
+{
+  "name": "projeto-pratico-backend-integrar-com-o-frontend",
+  "version": "1.0.0",
+  "description": "Projeto Prático da Missão Backend Iniciante da Profissão DevFullStack: Integração com o FrontEnd",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-async-errors": "^3.1.1",
+    "joi": "^17.13.3",
+    "mongodb": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
